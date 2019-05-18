@@ -1,2 +1,2 @@
-# Aprendendo JavaScript
-Repositório criado para guardar os projetos que estarei realizando durante meu aprendizado em Javascript.
+# CalculaFLEX
+Sistema para auxiliar o usuário na escolha da vantagem de preço entre o Etanol e a Gasolina.
