@@ -1,0 +1,14 @@
+/*
+ *  JS PRÁTICO - SLIDE SHOW
+ *  @author Raissa Queiroz
+ *
+ */
+
+ div#main {
+    max-width: 1080px;
+    margin: 0 auto;
+ }
+
+ img {
+     max-width: 100%;
+ }

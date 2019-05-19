@@ -1,5 +1,5 @@
 /*
- *  JS PRÁTICO - TABUADA
+ *  JS PRÁTICO - LAMPADA
  *  @author Raissa Queiroz
  *
  */
