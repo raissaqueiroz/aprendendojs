@@ -1,0 +1,50 @@
+/*Hard Reset*/
+* {margin: 0; padding: 0; border: none; box-sizing: border-box; font-family: 'Coiny', cursive;}
+a {text-decoration: none;}
+ul {list-style: none;}
+img {max-width: 100%;}
+
+body {
+    background:#7775e2;
+    font: normal 15pt arial;
+    width: 100%;
+    height: 100vh;
+}
+header {
+    width: 100%;
+    padding: 40px 0;
+    color: white;
+    text-align: center;
+
+}
+section {
+    background:  white;
+    border-radius: 10px;
+    padding: 15px;
+    width: 50%;
+    margin: auto;
+    box-shadow: 3px 3px 10px rgba(0, 0, 0, 0.384);
+    height: 400px;
+}
+
+div {
+    text-align: center;
+    padding: 8px;
+}
+
+
+img {
+    border-radius: 1%;
+    max-width: 100%;
+    height: 300px;
+}
+
+footer {
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+    padding: 40px 0;
+    color: #000;
+    text-align: center;
+    font-style: italic;
+}
